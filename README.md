@@ -133,9 +133,6 @@ https://www.python.org/
 <h3 align="left">Tools:</h3>
 <p align="left"> </a> <a href="https://anaconda.org/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" alt="Anaconda" width="80" height="80"/> </a> <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/86-862450_spyder-python-logo-png-transparent-png.png" alt="Spyder" width="80" height="80"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="80" height="80"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png" alt="Notepad++" width="80" height="80"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://brandeps.com/logo-download/P/Pycharm-logo-vector-01.svg" alt="Notepad++" width="80" height="80"/> </a> </p>  
 
-## Authors  
-### * Tin Hang
-
 ## Disclaimer  
 &#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books that relate to stock market, investment, or finance. On the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. You should read &#x1F4D7; about Machine Learning and Deep Learning to understand the concept, theory, and the mathematics. On the other hand, you should read academic paper and do research online about machine learning and deep learning on :computer:  
 
